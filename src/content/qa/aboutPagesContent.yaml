@@ -6,7 +6,7 @@
     - paragraph: "$$*CONTACT:*$$ bento-help@nih.gov"
 - page: "/resources"
   primaryContentImage: 'https://raw.githubusercontent.com/CBIIT/bento-frontend/master/src/assets/about/About_Resources.png'
-  title: "Resources"
+  title: "Resources    "
   content:
     - paragraph: "Bento is a modular, data agnostic, cloud-enable software framework for building data sharing platforms, for life science and clinical research. Instructions on using the Bento framework to set up your own platform may be found $$[here](https://cbiit.github.io/bento-docs/)."
     - paragraph: "All code necessary to use Bento is provided in the form of Docker containers. However, we do provide our code to the public for research, usage, forking and pull requests. Here are the repos for:"
