@@ -1,0 +1,7 @@
+{
+  "extends": ["web-recommended"],
+  "hints": {
+    "html-checker": "error",
+    "meta-viewport": "warning"
+  }
+}
