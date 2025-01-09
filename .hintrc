@@ -1,7 +1,10 @@
 {
-  "extends": ["web-recommended"],
+  "connector": {
+    "name": "jsdom"
+  },
+  "formatters": ["summary"],
   "hints": {
-    "html-checker": "error",
-    "meta-viewport": "warning"
+    "axe": "error",
+    "html-checker": "error"
   }
 }
