@@ -54,7 +54,6 @@ const DataSetDetailView = ({
             <div className={classes.logo}>
               <img
                 src={icon}
-                alt="dataset header icon"
               />
             </div>
             <div className={classes.headerTitle}>
